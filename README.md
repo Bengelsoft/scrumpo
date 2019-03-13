@@ -12,9 +12,9 @@
 
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782117469-25f5ddf5bd36c4b44082cdfa.svg)
 
-![Snyk Vulnerabilities for GitHub Repo (Specific Manifest)](https://img.shields.io/snyk/vulnerabilities/github/Bengelsoft/	scrumpo/frontend/package.json.svg) Frontend
+![Snyk Vulnerabilities for GitHub Repo (Specific Manifest)](https://img.shields.io/snyk/vulnerabilities/github/Bengelsoft/scrumpo/frontend/package.json.svg) Frontend
 
-![Snyk Vulnerabilities for GitHub Repo (Specific Manifest)](https://img.shields.io/snyk/vulnerabilities/github/Bengelsoft/	scrumpo/backend/pom.xml.svg)
+![Snyk Vulnerabilities for GitHub Repo (Specific Manifest)](https://img.shields.io/snyk/vulnerabilities/github/Bengelsoft/scrumpo/backend/pom.xml.svg) Backend
 
 
 ## Welcome to GitHub Pages
