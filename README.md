@@ -1,3 +1,22 @@
+[![Build Status](https://dev.azure.com/bartengelhard/bartengelhard/_apis/build/status/Bengelsoft.scrumpo?branchName=master)](https://dev.azure.com/bartengelhard/bartengelhard/_build/latest?definitionId=2&branchName=master)
+
+![Travis (.org)](https://img.shields.io/travis/Bengelsoft/scrumpo.svg)
+
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Bengelsoft/Scrumpo.svg)
+
+![GitHub](https://img.shields.io/github/license/Bengelsoft/Scrumpo.svg)
+
+![Website](https://img.shields.io/website-up-down-green-red/https/scrumpo.com.svg)
+
+![Codecov](https://img.shields.io/codecov/c/github/Bengelsoft/scrumpo.svg)
+
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782117469-25f5ddf5bd36c4b44082cdfa.svg)
+
+![Snyk Vulnerabilities for GitHub Repo (Specific Manifest)](https://img.shields.io/snyk/vulnerabilities/github/Bengelsoft/	scrumpo/frontend/package.json.svg) Frontend
+
+![Snyk Vulnerabilities for GitHub Repo (Specific Manifest)](https://img.shields.io/snyk/vulnerabilities/github/Bengelsoft/	scrumpo/backend/pom.xml.svg)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Bengelsoft/scrumpo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
